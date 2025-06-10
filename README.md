@@ -1,1 +1,1 @@
-# 3d-product-viewer_Yonas-Degefu_UGR-6959-15
+# 3d-product-viewer
